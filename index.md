@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: home
 title: Cameron Gilbertson
+permalink: /home/
 ---
-[About Me](/about/) | [My Projects](/projects/)
+[Home](/home/) | [About Me](/about/) | [My Projects](/projects/)
 
 # Projects
 ## Project 1
