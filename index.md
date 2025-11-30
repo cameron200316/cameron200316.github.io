@@ -3,7 +3,7 @@ layout: default
 title: Cameron Gilbertson
 permalink: 
 ---
-[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/) | [Documents](https://www.linkedin.com/in/camerongilbertson/)
+[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/) | [LinkedIn](https://www.linkedin.com/in/camerongilbertson/)
 
 <img src="/assets/images/Iowa_State_Cyclones_logo.png" alt="My Photo" width="300" style="display: block; margin: 0 auto;">
 
