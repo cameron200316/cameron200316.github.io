@@ -2,6 +2,8 @@
 layout: default
 title: Cameron Gilbertson
 ---
+[About Me](/about/) | [My Projects](/projects/)
+
 # Projects
 ## Project 1
 Description for project 1
