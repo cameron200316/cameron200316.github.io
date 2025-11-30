@@ -3,7 +3,7 @@ layout: default
 title: GitTor
 permalink: /gitTor/
 ---
-[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/)
+[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/) | [LinkedIn](https://www.linkedin.com/in/camerongilbertson/)
 
 <img src="/assets/images/p2p.png" alt="My Photo" width="400" style="display: block; margin: 0 auto;">
 
