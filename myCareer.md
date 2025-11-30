@@ -3,7 +3,7 @@ layout: default
 title: My Career
 permalink: /myCareer/
 ---
-[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/)
+[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/) | [LinkedIn](https://www.linkedin.com/in/camerongilbertson/)
 
 # Collins Aerospace
 ## Embedded Software Engineering Internship
