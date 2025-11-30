@@ -3,6 +3,6 @@ layout: default
 title: My Career
 permalink: /myCareer/
 ---
-[Home](/) | [About Me](/about/) | [My Projects](/projects/)
+[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/)
 
 Hi, I'm Cameron Gilbertson. This is my about page.
