@@ -1,6 +1,3 @@
-remote_theme: poole/hyde
+theme: jekyll-theme-cayman
 title: Cameron Gilbertson
 description: cameron200316@gmail.com | 319-550-5855
-
-plugins:
-  - jekyll-include-cache
