@@ -1,3 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Cameron Gilbertson
 description: cameron200316@gmail.com | 319-550-5855
+
+plugins:
+  - jekyll-include-cache
