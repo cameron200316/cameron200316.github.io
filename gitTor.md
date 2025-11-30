@@ -5,7 +5,7 @@ permalink: /gitTor/
 ---
 [Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/)
 
-<img src="/assets/images/p2p.png" alt="My Photo" width="300" style="display: block; margin: 0 auto;">
+<img src="/assets/images/p2p.png" alt="My Photo" width="400" style="display: block; margin: 0 auto;">
 
 ## Project Overview
 GitTor is an open-source alternative to large hosting platforms such as GitHub and GitLab. Using P2P connections and BitTorrent protocols, GitTor does not use a centralized server for storing repositories. The repositories are shared between peers. This removes the reliance on major servers that are prone to outages and also decentralizes your data.
