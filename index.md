@@ -1,4 +1,9 @@
 ---
 layout: default
-title: Home
+title: Cameron Gilbertson
 ---
+#Projects
+##Project 1
+Description for project 1
+
+##Project 2
