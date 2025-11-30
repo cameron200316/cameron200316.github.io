@@ -3,7 +3,7 @@ layout: default
 title: Cameron Gilbertson
 permalink: 
 ---
-[Home](/) | [About Me](/about/) | [My Projects](/projects/)
+[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/)
 
 # Projects
 ## Project 1
