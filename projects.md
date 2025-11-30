@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/)
+[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/) | [LinkedIn](https://www.linkedin.com/in/camerongilbertson/)
 
 # Projects
 ## CNN Hardware Accelerator for Image Classification
