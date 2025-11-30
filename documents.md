@@ -3,7 +3,7 @@ layout: default
 title: Documents
 permalink: /documents/
 ---
-[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/)
+[Home](/) | [My Career](/myCareer/) | [GitTor](/gitTor/) | [My Projects](/projects/) | [Documents](/documents/) | [LinkedIn](https://www.linkedin.com/in/camerongilbertson/)
 
 ## My Resumé
 <embed src="/assets/pdfs/Cameron_Gilbertson_Resume.pdf" type="application/pdf" width="100%" height="600px" />
